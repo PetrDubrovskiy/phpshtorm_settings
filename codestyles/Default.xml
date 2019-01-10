@@ -2,9 +2,11 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_ALIGN_TEXT" value="true" />
   </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+  </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="INDENT_CODE_IN_PHP_TAGS" value="true" />
-    <option name="CONCAT_SPACES" value="false" />
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="0" />
     <option name="SPACE_BETWEEN_TERNARY_QUEST_AND_COLON" value="true" />
     <option name="SPACE_BEFORE_CLOSURE_LEFT_PARENTHESIS" value="false" />
@@ -27,7 +29,6 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="METHOD_BRACE_STYLE" value="1" />
-    <option name="SPACE_AROUND_ASSIGNMENT_OPERATORS" value="false" />
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
